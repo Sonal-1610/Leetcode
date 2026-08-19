@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Sonal-1610/Leetcode/tree/master/0035-search-insert-position) |
 | [0239-sliding-window-maximum](https://github.com/Sonal-1610/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/Sonal-1610/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Sonal-1610/Leetcode/tree/master/0724-find-pivot-index) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Sonal-1610/Leetcode/tree/master/0035-search-insert-position) |
 | [0713-subarray-product-less-than-k](https://github.com/Sonal-1610/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sonal-1610/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
